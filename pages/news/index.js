@@ -12,7 +12,7 @@ function NewsPage() {
             NextJS Is a Great Framework
           </Link>
         </li>
-        <li>etc</li>
+        <li></li>
       </ul>
     </Fragment>
   );
